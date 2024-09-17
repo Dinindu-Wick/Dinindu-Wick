@@ -8,11 +8,12 @@ I am a Cyber Security professional with a background in software development. Cu
 
 ## 🔧 Skills
 
-- 💾 Software Development: Backend development, scripting, tool development.
+- 💾 Software Development: Back-end development, scripting, tool development
+- 🎮 Game Development: Game design, prototyping, and development using Unity/Unreal Engine(s).
 - 📔 Programming Languages: Python, C#, C++, Java
 - 📝 Scripting Languages: Lua, PowerShell, Bash, etc.
-- 💻 Cybersecurity Technologies: Microsoft Sentinel, Defender XDR, BurpSuite, URLScanPro, Shodan
 - 🔒 Cybersecurity: Threat hunting, incident response, security automation.
+- 💻 Cybersecurity Technologies: Microsoft Sentinel, Defender XDR, BurpSuite, URLScanPro, Shodan
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,dotnet,java,py,lua,php,r,visualstudio,vscode,atom,github,unity,ipfs&perline=7)](https://skillicons.dev)
