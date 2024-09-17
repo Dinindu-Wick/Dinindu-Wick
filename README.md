@@ -8,7 +8,7 @@ I am a Cyber Security professional with a background in software development. Cu
 
 ## 🔧 Skills
 
-- 💾 Software Development: Full-Stack Development, Backend Development, scripting, tool development.
+- 💾 Software Development: Backend development, scripting, tool development.
 - 📔 Programming Languages: Python, C#, C++, Java
 - 📝 Scripting Languages: Lua, PowerShell, Bash, etc.
 - 💻 Cybersecurity Technologies: Microsoft Sentinel, Defender XDR, BurpSuite, URLScanPro, Shodan
