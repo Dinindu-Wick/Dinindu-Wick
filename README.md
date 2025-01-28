@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I am a Cyber Security professional with a background in software development. Currently, my work involves Incident Response, Threat Hunting and developing of automations for Security Operations. I enjoy building tools and applications that simplify tasks and enhance efficiency for professionals in cybersecurity and beyond.
+I am a Cyber Security professional with a background in software engineering. Currently, my work involves Incident Response, Threat Hunting and developing of automations for Security Operations. I enjoy building tools and applications that simplify tasks and enhance efficiency for professionals in cybersecurity and beyond.
 
 ![Dinindu-Wicks's Stats](https://github-readme-stats.vercel.app/api?username=Dinindu-Wick&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
